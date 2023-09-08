@@ -1,4 +1,4 @@
-## Hello! width="30">
+## Hello!
 
 I'm Christopher Raley!
 
